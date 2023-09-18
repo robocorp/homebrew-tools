@@ -1,6 +1,6 @@
 cask "rcc" do
-  version "14.15.4"
-  sha256 "151e6a17c5dc3d92e63f20fc2af6c0e07cb60cfd53309243918c1dbfc64fb0b6"
+  version "16.2.2"
+  sha256 "c3529ebcfae41593de5b444a4202efd436dce76119755644136d4dc99ef03dd3"
 
   # robocorp.com was verified as official when first introduced to the cask
   url "https://downloads.robocorp.com/rcc/releases/v#{version}/macos64/rcc"

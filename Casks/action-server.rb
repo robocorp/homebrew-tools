@@ -1,6 +1,6 @@
 cask "action-server" do
-  version "0.0.27"
-  sha256 "8e162f5d2dfe05f10d30569fee03c97dfbec4a41ac1c2b170f81a79e2087d349"
+  version "0.0.28"
+  sha256 "bbd39d46230e81d120e4196b2e387d83d22e15f47954dcb1ba9f47671553cb4f"
 
   # robocorp.com was verified as official when first introduced to the cask
   url "https://downloads.robocorp.com/action-server/releases/#{version}/macos64/action-server"
